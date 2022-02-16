@@ -1,0 +1,3 @@
+Launching lib/main.dart on iPhone 13 in debug mode...
+Xcode build done.                                           14.1s
+Connecting to VM Service at ws://127.0.0.1:49841/a-dHjuLaXYo=/ws
